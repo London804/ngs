@@ -1,0 +1,14 @@
+{
+  "name": "london804-frame-print",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "london804-frame-print": "^1.0.0"
+  }
+}
